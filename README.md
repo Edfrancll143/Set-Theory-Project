@@ -9,5 +9,4 @@ A Java program demonstrating set theory operations like union, intersection, dif
 - Subset Checking (A ⊆ B)
 
 ## Program Output
-![Union Output](screenshots/union.png)
-![Intersection Output](screenshots/intersection.png)
+![Screenshot Output](screenshots/union.png)
